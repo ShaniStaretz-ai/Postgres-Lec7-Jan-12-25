@@ -23,4 +23,4 @@ all rows in the child table that reference the deleted row should also be delete
   * reference: https://neon.tech/postgresql/postgresql-tutorial/postgresql-interval
   * now()- INTERVAL '1 day' returns the now timestamp - 1 day
 *  BETWEEN num1 AND num2 - range(num1,num2), including 
-* DATE(sale_timestamp)- extract the date only from the timestamp(date time) in yyyy-mm-dd format 
+* DATE(sale_timestamp)- extract the date only from the timestamp(date time) in yyyy-mm-dd format
